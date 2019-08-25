@@ -1,4 +1,4 @@
-## Searchbx API Client 
+## SearchBX API Client 
 
 Add Custom Search to your Website & help visitors find the right page. [Demo Online](https://h.searchbx.com/blog.digitalocean.com)
 
@@ -11,13 +11,13 @@ We run the crawlers and search servers for you. You do not need to manage and sy
 ### Full Text Search
 Instead of searching only the page titles, we support searching the whole article, with typo tolerance.
 
-### How to use Searchbx API Client 
+### How to use SearchBX API Client 
 - Import the library
 ```javascript
 import SearchbxClient from 'searchbx';
 ```
 
-- Create SearchbxClient
+- Create SearchBX Client
 ```javascript
 const searchbxClient = new SearchbxClient({
  url: 'YourSiteURL',
