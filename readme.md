@@ -20,7 +20,7 @@ import SearchbxClient from 'searchbx';
 - Create SearchbxClient
 ```javascript
 const searchbxClient = new SearchbxClient({
- url: {your-site-domain},
+ url: {{your-site-domain}},
  version: 'basic'
 });
 ```
@@ -28,7 +28,7 @@ const searchbxClient = new SearchbxClient({
 - Start searching
 ```javascript
 searchbxClient.search({
- query: {search-query}
+ query: {{search-query}}
 }).then((res) => {
  ...
 })
