@@ -1,6 +1,6 @@
 {
   "name": "searchbx",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "description": "Searchbx API Client for JavaScript with instant search experiences",
   "main": "index.js",
   "scripts": {
