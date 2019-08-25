@@ -1,0 +1,37 @@
+{
+  "name": "searchbx",
+  "version": "1.0.0",
+  "description": "Searchbx API Client for JavaScript with instant search experiences",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/searchbx/searchbx-client-js.git"
+  },
+  "keywords": [
+    "searchbx",
+    "search",
+    "search api",
+    "instant search",
+    "static site",
+    "autocomplete",
+    "realtime",
+    "search bar"
+  ],
+  "author": {
+    "name": "Searchbx",
+    "url": "https://searchbx.com"
+  },
+  "contributors": [
+    {
+      "name": "Searchbx Team <support@searchbx.com>",
+      "url": "https://searchbx.com"
+    }
+  ],
+  "license": "MIT",
+  "dependencies": {
+    "axios": "^0.19.0"
+  }
+}
